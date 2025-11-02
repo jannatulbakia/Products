@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "description": "High-quality Bluetooth headphones with noise cancellation.",
+    "price": 99.99,
+    "stock": 25
+  },
+  {
+    "name": "Smartwatch Pro",
+    "category": "Wearables",
+    "description": "Track your health and notifications on the go.",
+    "price": 199.99,
+    "stock": 40
+  },
+  {
+    "name": "EcoWater Bottle",
+    "category": "Home & Kitchen",
+    "description": "Reusable insulated water bottle made from eco-friendly materials.",
+    "price": 29.99,
+    "stock": 100
+  }
+]
